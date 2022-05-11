@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sheroze2017
 - 👀 I’m interested in web and android development
 - 🌱 I’m currently learning flutter with backend 
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me contact me at sheroze2017@gmail.com or sheroze2017@outlook.com
 
 <!---
